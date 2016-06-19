@@ -1,0 +1,400 @@
+reset-0 	 urng_seed1- fff00a10 	,urng_seed2- ff11119e	, urng_seed3- f111ac6c 	 and	 output is a6de34e1 	, valid-1
+
+reset-0 	 urng_seed1- fff01420 	,urng_seed2- ff1111ad	, urng_seed3- f111acf8 	 and	 output is a97f35ce 	, valid-1
+
+reset-0 	 urng_seed1- fff01e30 	,urng_seed2- ff1111bc	, urng_seed3- f111ad84 	 and	 output is a9bc36b6 	, valid-1
+
+reset-0 	 urng_seed1- fff02840 	,urng_seed2- ff1111cb	, urng_seed3- f111ae10 	 and	 output is abfd379f 	, valid-1
+
+reset-0 	 urng_seed1- fff03250 	,urng_seed2- ff1111da	, urng_seed3- f111ae9c 	 and	 output is afba3045 	, valid-1
+
+reset-1 	 urng_seed1- fff03c60 	,urng_seed2- ff1111e9	, urng_seed3- f111af28 	 and	 output is 00000000 	, valid-0
+
+reset-1 	 urng_seed1- fff04670 	,urng_seed2- ff1111f8	, urng_seed3- f111afb4 	 and	 output is 00000000 	, valid-0
+
+reset-1 	 urng_seed1- fff05080 	,urng_seed2- ff111207	, urng_seed3- f111b040 	 and	 output is 00000000 	, valid-0
+
+reset-1 	 urng_seed1- fff05a90 	,urng_seed2- ff111216	, urng_seed3- f111b0cc 	 and	 output is 00000000 	, valid-0
+
+reset-1 	 urng_seed1- fff064a0 	,urng_seed2- ff111225	, urng_seed3- f111b158 	 and	 output is 00000000 	, valid-0
+
+reset-0 	 urng_seed1- fff06eb0 	,urng_seed2- ff111234	, urng_seed3- f111b1e4 	 and	 output is 95f40fea 	, valid-1
+
+reset-0 	 urng_seed1- fff078c0 	,urng_seed2- ff111243	, urng_seed3- f111b270 	 and	 output is 94350ec2 	, valid-1
+
+reset-0 	 urng_seed1- fff082d0 	,urng_seed2- ff111252	, urng_seed3- f111b2fc 	 and	 output is 92720998 	, valid-1
+
+reset-0 	 urng_seed1- fff08ce0 	,urng_seed2- ff111261	, urng_seed3- f111b388 	 and	 output is 9cd30b70 	, valid-1
+
+reset-0 	 urng_seed1- fff096f0 	,urng_seed2- ff111270	, urng_seed3- f111b414 	 and	 output is 9ed00849 	, valid-1
+
+reset-1 	 urng_seed1- fff0a100 	,urng_seed2- ff11127f	, urng_seed3- f111b4a0 	 and	 output is 00000000 	, valid-0
+
+reset-1 	 urng_seed1- fff0ab10 	,urng_seed2- ff11128e	, urng_seed3- f111b52c 	 and	 output is 00000000 	, valid-0
+
+reset-1 	 urng_seed1- fff0b520 	,urng_seed2- ff11129d	, urng_seed3- f111b5b8 	 and	 output is 00000000 	, valid-0
+
+reset-1 	 urng_seed1- fff0bf30 	,urng_seed2- ff1112ac	, urng_seed3- f111b644 	 and	 output is 00000000 	, valid-0
+
+reset-1 	 urng_seed1- fff0c940 	,urng_seed2- ff1112bb	, urng_seed3- f111b6d0 	 and	 output is 00000000 	, valid-0
+
+reset-0 	 urng_seed1- fff0d350 	,urng_seed2- ff1112ca	, urng_seed3- f111b75c 	 and	 output is 902a04da 	, valid-1
+
+reset-0 	 urng_seed1- fff0dd60 	,urng_seed2- ff1112d9	, urng_seed3- f111b7e8 	 and	 output is 928b03b3 	, valid-1
+
+reset-0 	 urng_seed1- fff0e770 	,urng_seed2- ff1112e8	, urng_seed3- f111b874 	 and	 output is 9308028b 	, valid-1
+
+reset-0 	 urng_seed1- fff0f180 	,urng_seed2- ff1112f7	, urng_seed3- f111b900 	 and	 output is 8f89016d 	, valid-1
+
+reset-0 	 urng_seed1- fff0fb90 	,urng_seed2- ff111306	, urng_seed3- f111b98c 	 and	 output is 8c0600b7 	, valid-1
+
+reset-1 	 urng_seed1- fff105a0 	,urng_seed2- ff111315	, urng_seed3- f111ba18 	 and	 output is 00000000 	, valid-0
+
+reset-1 	 urng_seed1- fff10fb0 	,urng_seed2- ff111324	, urng_seed3- f111baa4 	 and	 output is 00000000 	, valid-0
+
+reset-1 	 urng_seed1- fff119c0 	,urng_seed2- ff111333	, urng_seed3- f111bb30 	 and	 output is 00000000 	, valid-0
+
+reset-1 	 urng_seed1- fff123d0 	,urng_seed2- ff111342	, urng_seed3- f111bbbc 	 and	 output is 00000000 	, valid-0
+
+reset-1 	 urng_seed1- fff12de0 	,urng_seed2- ff111351	, urng_seed3- f111bc48 	 and	 output is 00000000 	, valid-0
+
+reset-0 	 urng_seed1- fff137f0 	,urng_seed2- ff111360	, urng_seed3- f111bcd4 	 and	 output is 9b401dc3 	, valid-1
+
+reset-0 	 urng_seed1- fff14200 	,urng_seed2- ff11136f	, urng_seed3- f111bd60 	 and	 output is 9bc11eab 	, valid-1
+
+reset-0 	 urng_seed1- fff14c10 	,urng_seed2- ff11137e	, urng_seed3- f111bdec 	 and	 output is 9ffe1ffd 	, valid-1
+
+reset-0 	 urng_seed1- fff15620 	,urng_seed2- ff11138d	, urng_seed3- f111be78 	 and	 output is 9e1f1ec5 	, valid-1
+
+reset-0 	 urng_seed1- fff16030 	,urng_seed2- ff11139c	, urng_seed3- f111bf04 	 and	 output is 989c11ae 	, valid-1
+
+reset-1 	 urng_seed1- fff16a40 	,urng_seed2- ff1113ab	, urng_seed3- f111bf90 	 and	 output is 00000000 	, valid-0
+
+reset-1 	 urng_seed1- fff17450 	,urng_seed2- ff1113ba	, urng_seed3- f111c01c 	 and	 output is 00000000 	, valid-0
+
+reset-1 	 urng_seed1- fff17e60 	,urng_seed2- ff1113c9	, urng_seed3- f111c0a8 	 and	 output is 00000000 	, valid-0
+
+reset-1 	 urng_seed1- fff18870 	,urng_seed2- ff1113d8	, urng_seed3- f111c134 	 and	 output is 00000000 	, valid-0
+
+reset-1 	 urng_seed1- fff19280 	,urng_seed2- ff1113e7	, urng_seed3- f111c1c0 	 and	 output is 00000000 	, valid-0
+
+reset-0 	 urng_seed1- fff19c90 	,urng_seed2- ff1113f6	, urng_seed3- f111c24c 	 and	 output is 6bb6144c 	, valid-1
+
+reset-0 	 urng_seed1- fff1a6a0 	,urng_seed2- ff111405	, urng_seed3- f111c2d8 	 and	 output is 6c571577 	, valid-1
+
+reset-0 	 urng_seed1- fff1b0b0 	,urng_seed2- ff111414	, urng_seed3- f111c364 	 and	 output is 6ed46a9f 	, valid-1
+
+reset-0 	 urng_seed1- fff1bac0 	,urng_seed2- ff111423	, urng_seed3- f111c3f0 	 and	 output is 6cd56bc6 	, valid-1
+
+reset-0 	 urng_seed1- fff1c4d0 	,urng_seed2- ff111432	, urng_seed3- f111c47c 	 and	 output is 6d5268ef 	, valid-1
+
+reset-1 	 urng_seed1- fff1cee0 	,urng_seed2- ff111441	, urng_seed3- f111c508 	 and	 output is 00000000 	, valid-0
+
+reset-1 	 urng_seed1- fff1d8f0 	,urng_seed2- ff111450	, urng_seed3- f111c594 	 and	 output is 00000000 	, valid-0
+
+reset-1 	 urng_seed1- fff1e300 	,urng_seed2- ff11145f	, urng_seed3- f111c620 	 and	 output is 00000000 	, valid-0
+
+reset-1 	 urng_seed1- fff1ed10 	,urng_seed2- ff11146e	, urng_seed3- f111c6ac 	 and	 output is 00000000 	, valid-0
+
+reset-1 	 urng_seed1- fff1f720 	,urng_seed2- ff11147d	, urng_seed3- f111c738 	 and	 output is 00000000 	, valid-0
+
+reset-0 	 urng_seed1- fff20130 	,urng_seed2- ff11148c	, urng_seed3- f111c7c4 	 and	 output is 600c6c5c 	, valid-1
+
+reset-0 	 urng_seed1- fff20b40 	,urng_seed2- ff11149b	, urng_seed3- f111c850 	 and	 output is 5e8d6c84 	, valid-1
+
+reset-0 	 urng_seed1- fff21550 	,urng_seed2- ff1114aa	, urng_seed3- f111c8dc 	 and	 output is 410a6da3 	, valid-1
+
+reset-0 	 urng_seed1- fff21f60 	,urng_seed2- ff1114b9	, urng_seed3- f111c968 	 and	 output is 41eb6edb 	, valid-1
+
+reset-0 	 urng_seed1- fff22970 	,urng_seed2- ff1114c8	, urng_seed3- f111c9f4 	 and	 output is 42286ff2 	, valid-1
+
+reset-1 	 urng_seed1- fff23380 	,urng_seed2- ff1114d7	, urng_seed3- f111ca80 	 and	 output is 00000000 	, valid-0
+
+reset-1 	 urng_seed1- fff23d90 	,urng_seed2- ff1114e6	, urng_seed3- f111cb0c 	 and	 output is 00000000 	, valid-0
+
+reset-1 	 urng_seed1- fff247a0 	,urng_seed2- ff1114f5	, urng_seed3- f111cb98 	 and	 output is 00000000 	, valid-0
+
+reset-1 	 urng_seed1- fff251b0 	,urng_seed2- ff111504	, urng_seed3- f111cc24 	 and	 output is 00000000 	, valid-0
+
+reset-1 	 urng_seed1- fff25bc0 	,urng_seed2- ff111513	, urng_seed3- f111ccb0 	 and	 output is 00000000 	, valid-0
+
+reset-0 	 urng_seed1- fff265d0 	,urng_seed2- ff111522	, urng_seed3- f111cd3c 	 and	 output is 4dc27465 	, valid-1
+
+reset-0 	 urng_seed1- fff26fe0 	,urng_seed2- ff111531	, urng_seed3- f111cdc8 	 and	 output is 4d23779c 	, valid-1
+
+reset-0 	 urng_seed1- fff279f0 	,urng_seed2- ff111540	, urng_seed3- f111ce54 	 and	 output is 4c6076b4 	, valid-1
+
+reset-0 	 urng_seed1- fff28400 	,urng_seed2- ff11154f	, urng_seed3- f111cee0 	 and	 output is 4a2171ef 	, valid-1
+
+reset-0 	 urng_seed1- fff28e10 	,urng_seed2- ff11155e	, urng_seed3- f111cf6c 	 and	 output is 449e7298 	, valid-1
+
+reset-1 	 urng_seed1- fff29820 	,urng_seed2- ff11156d	, urng_seed3- f111cff8 	 and	 output is 00000000 	, valid-0
+
+reset-1 	 urng_seed1- fff2a230 	,urng_seed2- ff11157c	, urng_seed3- f111d084 	 and	 output is 00000000 	, valid-0
+
+reset-1 	 urng_seed1- fff2ac40 	,urng_seed2- ff11158b	, urng_seed3- f111d110 	 and	 output is 00000000 	, valid-0
+
+reset-1 	 urng_seed1- fff2b650 	,urng_seed2- ff11159a	, urng_seed3- f111d19c 	 and	 output is 00000000 	, valid-0
+
+reset-1 	 urng_seed1- fff2c060 	,urng_seed2- ff1115a9	, urng_seed3- f111d228 	 and	 output is 00000000 	, valid-0
+
+reset-0 	 urng_seed1- fff2ca70 	,urng_seed2- ff1115b8	, urng_seed3- f111d2b4 	 and	 output is 79587d96 	, valid-1
+
+reset-0 	 urng_seed1- fff2d480 	,urng_seed2- ff1115c7	, urng_seed3- f111d340 	 and	 output is 78d97cbe 	, valid-1
+
+reset-0 	 urng_seed1- fff2de90 	,urng_seed2- ff1115d6	, urng_seed3- f111d3cc 	 and	 output is 7ad67b44 	, valid-1
+
+reset-0 	 urng_seed1- fff2e8a0 	,urng_seed2- ff1115e5	, urng_seed3- f111d458 	 and	 output is 7b777a6c 	, valid-1
+
+reset-0 	 urng_seed1- fff2f2b0 	,urng_seed2- ff1115f4	, urng_seed3- f111d4e4 	 and	 output is 773479b3 	, valid-1
+
+reset-1 	 urng_seed1- fff2fcc0 	,urng_seed2- ff111603	, urng_seed3- f111d570 	 and	 output is 00000000 	, valid-0
+
+reset-1 	 urng_seed1- fff306d0 	,urng_seed2- ff111612	, urng_seed3- f111d5fc 	 and	 output is 00000000 	, valid-0
+
+reset-1 	 urng_seed1- fff310e0 	,urng_seed2- ff111621	, urng_seed3- f111d688 	 and	 output is 00000000 	, valid-0
+
+reset-1 	 urng_seed1- fff31af0 	,urng_seed2- ff111630	, urng_seed3- f111d714 	 and	 output is 00000000 	, valid-0
+
+reset-1 	 urng_seed1- fff32500 	,urng_seed2- ff11163f	, urng_seed3- f111d7a0 	 and	 output is 00000000 	, valid-0
+
+reset-0 	 urng_seed1- fff32f10 	,urng_seed2- ff11164e	, urng_seed3- f111d82c 	 and	 output is 6c0e4306 	, valid-1
+
+reset-0 	 urng_seed1- fff33920 	,urng_seed2- ff11165d	, urng_seed3- f111d8b8 	 and	 output is 73af4420 	, valid-1
+
+reset-0 	 urng_seed1- fff34330 	,urng_seed2- ff11166c	, urng_seed3- f111d944 	 and	 output is 73ec4578 	, valid-1
+
+reset-0 	 urng_seed1- fff34d40 	,urng_seed2- ff11167b	, urng_seed3- f111d9d0 	 and	 output is 77ad4791 	, valid-1
+
+reset-0 	 urng_seed1- fff35750 	,urng_seed2- ff11168a	, urng_seed3- f111da5c 	 and	 output is 766a46a8 	, valid-1
+
+reset-1 	 urng_seed1- fff36160 	,urng_seed2- ff111699	, urng_seed3- f111dae8 	 and	 output is 00000000 	, valid-0
+
+reset-1 	 urng_seed1- fff36b70 	,urng_seed2- ff1116a8	, urng_seed3- f111db74 	 and	 output is 00000000 	, valid-0
+
+reset-1 	 urng_seed1- fff37580 	,urng_seed2- ff1116b7	, urng_seed3- f111dc00 	 and	 output is 00000000 	, valid-0
+
+reset-1 	 urng_seed1- fff37f90 	,urng_seed2- ff1116c6	, urng_seed3- f111dc8c 	 and	 output is 00000000 	, valid-0
+
+reset-1 	 urng_seed1- fff389a0 	,urng_seed2- ff1116d5	, urng_seed3- f111dd18 	 and	 output is 00000000 	, valid-0
+
+reset-0 	 urng_seed1- fff393b0 	,urng_seed2- ff1116e4	, urng_seed3- f111dda4 	 and	 output is 73a44f3f 	, valid-1
+
+reset-0 	 urng_seed1- fff39dc0 	,urng_seed2- ff1116f3	, urng_seed3- f111de30 	 and	 output is 73654c57 	, valid-1
+
+reset-0 	 urng_seed1- fff3a7d0 	,urng_seed2- ff111702	, urng_seed3- f111debc 	 and	 output is 74a24d6d 	, valid-1
+
+reset-0 	 urng_seed1- fff3b1e0 	,urng_seed2- ff111711	, urng_seed3- f111df48 	 and	 output is 76035285 	, valid-1
+
+reset-0 	 urng_seed1- fff3bbf0 	,urng_seed2- ff111720	, urng_seed3- f111dfd4 	 and	 output is 748053dc 	, valid-1
+
+reset-1 	 urng_seed1- fff3c600 	,urng_seed2- ff11172f	, urng_seed3- f111e060 	 and	 output is 00000000 	, valid-0
+
+reset-1 	 urng_seed1- fff3d010 	,urng_seed2- ff11173e	, urng_seed3- f111e0ec 	 and	 output is 00000000 	, valid-0
+
+reset-1 	 urng_seed1- fff3da20 	,urng_seed2- ff11174d	, urng_seed3- f111e178 	 and	 output is 00000000 	, valid-0
+
+reset-1 	 urng_seed1- fff3e430 	,urng_seed2- ff11175c	, urng_seed3- f111e204 	 and	 output is 00000000 	, valid-0
+
+reset-1 	 urng_seed1- fff3ee40 	,urng_seed2- ff11176b	, urng_seed3- f111e290 	 and	 output is 00000000 	, valid-0
+
+reset-0 	 urng_seed1- fff3f850 	,urng_seed2- ff11177a	, urng_seed3- f111e31c 	 and	 output is 0ada5518 	, valid-1
+
+reset-0 	 urng_seed1- fff40260 	,urng_seed2- ff111789	, urng_seed3- f111e3a8 	 and	 output is 08bb5441 	, valid-1
+
+reset-0 	 urng_seed1- fff40c70 	,urng_seed2- ff111798	, urng_seed3- f111e434 	 and	 output is 767844a9 	, valid-1
+
+reset-0 	 urng_seed1- fff41680 	,urng_seed2- ff1117a7	, urng_seed3- f111e4c0 	 and	 output is 79b94596 	, valid-1
+
+reset-0 	 urng_seed1- fff42090 	,urng_seed2- ff1117b6	, urng_seed3- f111e54c 	 and	 output is 79f6467d 	, valid-1
+
+reset-1 	 urng_seed1- fff42aa0 	,urng_seed2- ff1117c5	, urng_seed3- f111e5d8 	 and	 output is 00000000 	, valid-0
+
+reset-1 	 urng_seed1- fff434b0 	,urng_seed2- ff1117d4	, urng_seed3- f111e664 	 and	 output is 00000000 	, valid-0
+
+reset-1 	 urng_seed1- fff43ec0 	,urng_seed2- ff1117e3	, urng_seed3- f111e6f0 	 and	 output is 00000000 	, valid-0
+
+reset-1 	 urng_seed1- fff448d0 	,urng_seed2- ff1117f2	, urng_seed3- f111e77c 	 and	 output is 00000000 	, valid-0
+
+reset-1 	 urng_seed1- fff452e0 	,urng_seed2- ff111801	, urng_seed3- f111e808 	 and	 output is 00000000 	, valid-0
+
+reset-0 	 urng_seed1- fff45cf0 	,urng_seed2- ff111810	, urng_seed3- f111e894 	 and	 output is 6430bd61 	, valid-1
+
+reset-0 	 urng_seed1- fff46700 	,urng_seed2- ff11181f	, urng_seed3- f111e920 	 and	 output is 65f1bc59 	, valid-1
+
+reset-0 	 urng_seed1- fff47110 	,urng_seed2- ff11182e	, urng_seed3- f111e9ac 	 and	 output is 652ebc37 	, valid-1
+
+reset-0 	 urng_seed1- fff47b20 	,urng_seed2- ff11183d	, urng_seed3- f111ea38 	 and	 output is 654fbf6f 	, valid-1
+
+reset-0 	 urng_seed1- fff48530 	,urng_seed2- ff11184c	, urng_seed3- f111eac4 	 and	 output is 62ccbe44 	, valid-1
+
+reset-1 	 urng_seed1- fff48f40 	,urng_seed2- ff11185b	, urng_seed3- f111eb50 	 and	 output is 00000000 	, valid-0
+
+reset-1 	 urng_seed1- fff49950 	,urng_seed2- ff11186a	, urng_seed3- f111ebdc 	 and	 output is 00000000 	, valid-0
+
+reset-1 	 urng_seed1- fff4a360 	,urng_seed2- ff111879	, urng_seed3- f111ec68 	 and	 output is 00000000 	, valid-0
+
+reset-1 	 urng_seed1- fff4ad70 	,urng_seed2- ff111888	, urng_seed3- f111ecf4 	 and	 output is 00000000 	, valid-0
+
+reset-1 	 urng_seed1- fff4b780 	,urng_seed2- ff111897	, urng_seed3- f111ed80 	 and	 output is 00000000 	, valid-0
+
+reset-0 	 urng_seed1- fff4c190 	,urng_seed2- ff1118a6	, urng_seed3- f111ee0c 	 and	 output is 6166b7f1 	, valid-1
+
+reset-0 	 urng_seed1- fff4cba0 	,urng_seed2- ff1118b5	, urng_seed3- f111ee98 	 and	 output is 6107b52a 	, valid-1
+
+reset-0 	 urng_seed1- fff4d5b0 	,urng_seed2- ff1118c4	, urng_seed3- f111ef24 	 and	 output is 6084b402 	, valid-1
+
+reset-0 	 urng_seed1- fff4dfc0 	,urng_seed2- ff1118d3	, urng_seed3- f111efb0 	 and	 output is 6205b37b 	, valid-1
+
+reset-0 	 urng_seed1- fff4e9d0 	,urng_seed2- ff1118e2	, urng_seed3- f111f03c 	 and	 output is 6382b252 	, valid-1
+
+reset-1 	 urng_seed1- fff4f3e0 	,urng_seed2- ff1118f1	, urng_seed3- f111f0c8 	 and	 output is 00000000 	, valid-0
+
+reset-1 	 urng_seed1- fff4fdf0 	,urng_seed2- ff111900	, urng_seed3- f111f154 	 and	 output is 00000000 	, valid-0
+
+reset-1 	 urng_seed1- fff50800 	,urng_seed2- ff11190f	, urng_seed3- f111f1e0 	 and	 output is 00000000 	, valid-0
+
+reset-1 	 urng_seed1- fff51210 	,urng_seed2- ff11191e	, urng_seed3- f111f26c 	 and	 output is 00000000 	, valid-0
+
+reset-1 	 urng_seed1- fff51c20 	,urng_seed2- ff11192d	, urng_seed3- f111f2f8 	 and	 output is 00000000 	, valid-0
+
+reset-0 	 urng_seed1- fff52630 	,urng_seed2- ff11193c	, urng_seed3- f111f384 	 and	 output is 453caac3 	, valid-1
+
+reset-0 	 urng_seed1- fff53040 	,urng_seed2- ff11194b	, urng_seed3- f111f410 	 and	 output is 447dab2a 	, valid-1
+
+reset-0 	 urng_seed1- fff53a50 	,urng_seed2- ff11195a	, urng_seed3- f111f49c 	 and	 output is 4a3aac74 	, valid-1
+
+reset-0 	 urng_seed1- fff54460 	,urng_seed2- ff111969	, urng_seed3- f111f528 	 and	 output is 4b9bad5c 	, valid-1
+
+reset-0 	 urng_seed1- fff54e70 	,urng_seed2- ff111978	, urng_seed3- f111f5b4 	 and	 output is 4f18afa5 	, valid-1
+
+reset-1 	 urng_seed1- fff55880 	,urng_seed2- ff111987	, urng_seed3- f111f640 	 and	 output is 00000000 	, valid-0
+
+reset-1 	 urng_seed1- fff56290 	,urng_seed2- ff111996	, urng_seed3- f111f6cc 	 and	 output is 00000000 	, valid-0
+
+reset-1 	 urng_seed1- fff56ca0 	,urng_seed2- ff1119a5	, urng_seed3- f111f758 	 and	 output is 00000000 	, valid-0
+
+reset-1 	 urng_seed1- fff576b0 	,urng_seed2- ff1119b4	, urng_seed3- f111f7e4 	 and	 output is 00000000 	, valid-0
+
+reset-1 	 urng_seed1- fff580c0 	,urng_seed2- ff1119c3	, urng_seed3- f111f870 	 and	 output is 00000000 	, valid-0
+
+reset-0 	 urng_seed1- fff58ad0 	,urng_seed2- ff1119d2	, urng_seed3- f111f8fc 	 and	 output is 59f2a63b 	, valid-1
+
+reset-0 	 urng_seed1- fff594e0 	,urng_seed2- ff1119e1	, urng_seed3- f111f988 	 and	 output is 5853a713 	, valid-1
+
+reset-0 	 urng_seed1- fff59ef0 	,urng_seed2- ff1119f0	, urng_seed3- f111fa14 	 and	 output is 5b50a46a 	, valid-1
+
+reset-0 	 urng_seed1- fff5a900 	,urng_seed2- ff1119ff	, urng_seed3- f111faa0 	 and	 output is 5cd1a541 	, valid-1
+
+reset-0 	 urng_seed1- fff5b310 	,urng_seed2- ff111a0e	, urng_seed3- f111fb2c 	 and	 output is 5ecea51e 	, valid-1
+
+reset-1 	 urng_seed1- fff5bd20 	,urng_seed2- ff111a1d	, urng_seed3- f111fbb8 	 and	 output is 00000000 	, valid-0
+
+reset-1 	 urng_seed1- fff5c730 	,urng_seed2- ff111a2c	, urng_seed3- f111fc44 	 and	 output is 00000000 	, valid-0
+
+reset-1 	 urng_seed1- fff5d140 	,urng_seed2- ff111a3b	, urng_seed3- f111fcd0 	 and	 output is 00000000 	, valid-0
+
+reset-1 	 urng_seed1- fff5db50 	,urng_seed2- ff111a4a	, urng_seed3- f111fd5c 	 and	 output is 00000000 	, valid-0
+
+reset-1 	 urng_seed1- fff5e560 	,urng_seed2- ff111a59	, urng_seed3- f111fde8 	 and	 output is 00000000 	, valid-0
+
+reset-0 	 urng_seed1- fff5ef70 	,urng_seed2- ff111a68	, urng_seed3- f111fe74 	 and	 output is 54889e28 	, valid-1
+
+reset-0 	 urng_seed1- fff5f980 	,urng_seed2- ff111a77	, urng_seed3- f111ff00 	 and	 output is 53099d03 	, valid-1
+
+reset-0 	 urng_seed1- fff60390 	,urng_seed2- ff111a86	, urng_seed3- f111ff8c 	 and	 output is 50869cd9 	, valid-1
+
+reset-0 	 urng_seed1- fff60da0 	,urng_seed2- ff111a95	, urng_seed3- f1120018 	 and	 output is 6e279c31 	, valid-1
+
+reset-0 	 urng_seed1- fff617b0 	,urng_seed2- ff111aa4	, urng_seed3- f11200a4 	 and	 output is 91e49e89 	, valid-1
+
+reset-1 	 urng_seed1- fff621c0 	,urng_seed2- ff111ab3	, urng_seed3- f1120130 	 and	 output is 00000000 	, valid-0
+
+reset-1 	 urng_seed1- fff62bd0 	,urng_seed2- ff111ac2	, urng_seed3- f11201bc 	 and	 output is 00000000 	, valid-0
+
+reset-1 	 urng_seed1- fff635e0 	,urng_seed2- ff111ad1	, urng_seed3- f1120248 	 and	 output is 00000000 	, valid-0
+
+reset-1 	 urng_seed1- fff63ff0 	,urng_seed2- ff111ae0	, urng_seed3- f11202d4 	 and	 output is 00000000 	, valid-0
+
+reset-1 	 urng_seed1- fff64a00 	,urng_seed2- ff111aef	, urng_seed3- f1120360 	 and	 output is 00000000 	, valid-0
+
+reset-0 	 urng_seed1- fff65410 	,urng_seed2- ff111afe	, urng_seed3- f11203ec 	 and	 output is 937e9814 	, valid-1
+
+reset-0 	 urng_seed1- fff65e20 	,urng_seed2- ff111b0d	, urng_seed3- f1120478 	 and	 output is 939f996c 	, valid-1
+
+reset-0 	 urng_seed1- fff66830 	,urng_seed2- ff111b1c	, urng_seed3- f1120504 	 and	 output is 9c1c8643 	, valid-1
+
+reset-0 	 urng_seed1- fff67240 	,urng_seed2- ff111b2b	, urng_seed3- f1120590 	 and	 output is 9d9d879a 	, valid-1
+
+reset-0 	 urng_seed1- fff67c50 	,urng_seed2- ff111b3a	, urng_seed3- f112061c 	 and	 output is 9d1a84f3 	, valid-1
+
+reset-1 	 urng_seed1- fff68660 	,urng_seed2- ff111b49	, urng_seed3- f11206a8 	 and	 output is 00000000 	, valid-0
+
+reset-1 	 urng_seed1- fff69070 	,urng_seed2- ff111b58	, urng_seed3- f1120734 	 and	 output is 00000000 	, valid-0
+
+reset-1 	 urng_seed1- fff69a80 	,urng_seed2- ff111b67	, urng_seed3- f11207c0 	 and	 output is 00000000 	, valid-0
+
+reset-1 	 urng_seed1- fff6a490 	,urng_seed2- ff111b76	, urng_seed3- f112084c 	 and	 output is 00000000 	, valid-0
+
+reset-1 	 urng_seed1- fff6aea0 	,urng_seed2- ff111b85	, urng_seed3- f11208d8 	 and	 output is 00000000 	, valid-0
+
+reset-0 	 urng_seed1- fff6b8b0 	,urng_seed2- ff111b94	, urng_seed3- f1120964 	 and	 output is 8a548d0c 	, valid-1
+
+reset-0 	 urng_seed1- fff6c2c0 	,urng_seed2- ff111ba3	, urng_seed3- f11209f0 	 and	 output is 88558c55 	, valid-1
+
+reset-0 	 urng_seed1- fff6ccd0 	,urng_seed2- ff111bb2	, urng_seed3- f1120a7c 	 and	 output is 8ed28ebc 	, valid-1
+
+reset-0 	 urng_seed1- fff6d6e0 	,urng_seed2- ff111bc1	, urng_seed3- f1120b08 	 and	 output is 89338f87 	, valid-1
+
+reset-0 	 urng_seed1- fff6e0f0 	,urng_seed2- ff111bd0	, urng_seed3- f1120b94 	 and	 output is 8a7088ee 	, valid-1
+
+reset-1 	 urng_seed1- fff6eb00 	,urng_seed2- ff111bdf	, urng_seed3- f1120c20 	 and	 output is 00000000 	, valid-0
+
+reset-1 	 urng_seed1- fff6f510 	,urng_seed2- ff111bee	, urng_seed3- f1120cac 	 and	 output is 00000000 	, valid-0
+
+reset-1 	 urng_seed1- fff6ff20 	,urng_seed2- ff111bfd	, urng_seed3- f1120d38 	 and	 output is 00000000 	, valid-0
+
+reset-1 	 urng_seed1- fff70930 	,urng_seed2- ff111c0c	, urng_seed3- f1120dc4 	 and	 output is 00000000 	, valid-0
+
+reset-1 	 urng_seed1- fff71340 	,urng_seed2- ff111c1b	, urng_seed3- f1120e50 	 and	 output is 00000000 	, valid-0
+
+reset-0 	 urng_seed1- fff71d50 	,urng_seed2- ff111c2a	, urng_seed3- f1120edc 	 and	 output is 9c8af27d 	, valid-1
+
+reset-0 	 urng_seed1- fff72760 	,urng_seed2- ff111c39	, urng_seed3- f1120f68 	 and	 output is 9d6bf145 	, valid-1
+
+reset-0 	 urng_seed1- fff73170 	,urng_seed2- ff111c48	, urng_seed3- f1120ff4 	 and	 output is 9da8f0ac 	, valid-1
+
+reset-0 	 urng_seed1- fff73b80 	,urng_seed2- ff111c57	, urng_seed3- f1121080 	 and	 output is 9de9f7f4 	, valid-1
+
+reset-0 	 urng_seed1- fff74590 	,urng_seed2- ff111c66	, urng_seed3- f112110c 	 and	 output is a3a6f643 	, valid-1
+
+reset-1 	 urng_seed1- fff74fa0 	,urng_seed2- ff111c75	, urng_seed3- f1121198 	 and	 output is 00000000 	, valid-0
+
+reset-1 	 urng_seed1- fff759b0 	,urng_seed2- ff111c84	, urng_seed3- f1121224 	 and	 output is 00000000 	, valid-0
+
+reset-1 	 urng_seed1- fff763c0 	,urng_seed2- ff111c93	, urng_seed3- f11212b0 	 and	 output is 00000000 	, valid-0
+
+reset-1 	 urng_seed1- fff76dd0 	,urng_seed2- ff111ca2	, urng_seed3- f112133c 	 and	 output is 00000000 	, valid-0
+
+reset-1 	 urng_seed1- fff777e0 	,urng_seed2- ff111cb1	, urng_seed3- f11213c8 	 and	 output is 00000000 	, valid-0
+
+reset-0 	 urng_seed1- fff781f0 	,urng_seed2- ff111cc0	, urng_seed3- f1121454 	 and	 output is a1e0f971 	, valid-1
+
+reset-0 	 urng_seed1- fff78c00 	,urng_seed2- ff111ccf	, urng_seed3- f11214e0 	 and	 output is a1a1fdae 	, valid-1
+
+reset-0 	 urng_seed1- fff79610 	,urng_seed2- ff111cde	, urng_seed3- f112156c 	 and	 output is a01efd19 	, valid-1
+
+reset-0 	 urng_seed1- fff7a020 	,urng_seed2- ff111ced	, urng_seed3- f11215f8 	 and	 output is a2bffc70 	, valid-1
+
+reset-0 	 urng_seed1- fff7aa30 	,urng_seed2- ff111cfc	, urng_seed3- f1121684 	 and	 output is a0fcffa8 	, valid-1
+
+reset-1 	 urng_seed1- fff7b440 	,urng_seed2- ff111d0b	, urng_seed3- f1121710 	 and	 output is 00000000 	, valid-0
+
+reset-1 	 urng_seed1- fff7be50 	,urng_seed2- ff111d1a	, urng_seed3- f112179c 	 and	 output is 00000000 	, valid-0
+
+reset-1 	 urng_seed1- fff7c860 	,urng_seed2- ff111d29	, urng_seed3- f1121828 	 and	 output is 00000000 	, valid-0
+
+reset-1 	 urng_seed1- fff7d270 	,urng_seed2- ff111d38	, urng_seed3- f11218b4 	 and	 output is 00000000 	, valid-0
+
+reset-1 	 urng_seed1- fff7dc80 	,urng_seed2- ff111d47	, urng_seed3- f1121940 	 and	 output is 00000000 	, valid-0
+
