@@ -49,8 +49,8 @@ initial
 		address=0;
 		e=0;
 		exp_e=0;
+		//memory allocation for log coefficients into c0,c1,c2
            $readmemh("c0_log.txt", c0);
-			  //c0 is 30 bits c0[29] is sign, c0[28]-integer value, c0[27:0]-fraction value 
            $readmemh("c1_log.txt", c1);
            $readmemh("c2_log.txt", c2);
       end
@@ -69,12 +69,11 @@ xe= (u0<<exp_e);
 //temp1 will be signed and a fraction value
 temp1=xe*c1[address]; 
 //temp2 width = xe:48bits+48bits+c2:13=[108:0]
-//temp2 is signed and contains fraction value
 temp2=(c2[address]*xe)*xe;
-//we only add MSB ignoring any LSB if necessary inorder to get fraction length and integer correctly 
 y_e=temp1+temp2+c0[address];
 //ln2= 0.69314718056;
 ln2='h10237AA968;
+
 //width of e1= 48+6  
   
 e1=ln2*exp_e; 
