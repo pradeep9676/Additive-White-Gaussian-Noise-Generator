@@ -55,11 +55,11 @@ initial
 									#1
 								if(x0==x0_m[i]&&x1==x1_m[i])
 									begin
-									$fwrite( A, "x0: %d and x0_m:%d; ,x1: %d and x1_m: %d are equal \n",x0,x0_m[i],x1,x1_m[i]);
+									$fwrite( A, "x0: %b and x0_m:%b; ,x1: %b and x1_m: %b are equal \n",x0,x0_m[i],x1,x1_m[i]);
 									end
 								else
 									begin
-									$fwrite( A, "x0: %d and x0_m:%d; ,x1: %d and x1_m:%d are not equal \n",x0,x0_m[i],x1,x1_m[i]);
+									$fwrite( A, "x0: %b and x0_m:%b; ,x1: %b and x1_m:%b are not equal \n",x0,x0_m[i],x1,x1_m[i]);
 									end
 							end
 					$fclose(A);
