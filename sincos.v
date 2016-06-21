@@ -55,7 +55,7 @@ always@(u1 ) //u1 is in sensitive list when ever there is change in u1 this bloc
         x_g_a=u1[13:0];  
         x_g_b=(1-2^-14)- u1[13:0]; 
         address=u1[15:8]; 
-        temp1=c0[address]*x_g_a;
+        temp1=c1[address]*x_g_a;
         temp2=c1[address]*x_g_b;
         y_g_a=temp1+ c0[address]; 
         y_g_b=temp2+ c0[address]; 
